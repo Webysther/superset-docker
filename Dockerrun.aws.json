@@ -1,0 +1,17 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "webysther/superset"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "8088"
+    }
+  ],
+  "Volumes": [
+    {
+      "HostDirectory": "/superset",
+      "ContainerDirectory": "/superset"
+    }
+  ]
+}
