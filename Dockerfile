@@ -33,4 +33,6 @@ RUN apt-get update && \
         sqlalchemy-clickhouse==0.1.5.post0 \
         sqlalchemy-redshift==0.7.1
 
+EXPOSE 8088
+VOLUME /superset
 ENV ADMIN_PWD superset
