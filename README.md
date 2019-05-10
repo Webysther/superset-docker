@@ -1,4 +1,3 @@
-[![Build Status](https://img.shields.io/docker/build/webysther/superset.svg?style=flat-square)](https://hub.docker.com/r/webysther/superset/)
 [![Software License](https://goo.gl/FU2Kw1)](LICENSE)
 
 # Docker for [Superset](https://github.com/apache/incubator-superset)
