@@ -2,7 +2,7 @@
 
 # Docker for [Superset](https://github.com/apache/incubator-superset)
 
-Projeto que permite enviar o superset para produção com apenas um docker e com os banco de dados mais comuns. Uma mistura de [amancevice/superset](https://hub.docker.com/r/amancevice/superset) com [tylerfowler/superset](https://hub.docker.com/r/tylerfowler/superset).
+Projeto que permite enviar o superset para produção com apenas um docker e com os banco de dados mais comuns. Uma mistura de [amancevice/superset](https://hub.docker.com/r/amancevice/superset) com [tylerfowler/superset](https://hub.docker.com/r/tylerfowler/superset) ([github](https://github.com/tylerFowler/docker-superset)).
 
 ## Usage
 
