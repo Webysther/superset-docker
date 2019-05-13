@@ -6,6 +6,12 @@
   "Ports": [
     {
       "ContainerPort": "8088"
+    },
+    {
+      "ContainerPort": "587"
+    },
+    {
+      "ContainerPort": "2525"
     }
   ],
   "Volumes": [
